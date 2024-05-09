@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.list-items {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.list-value{
+    margin-right: 12px;
+    font-family: "Roboto";
+    font-size: 16px;
+}
